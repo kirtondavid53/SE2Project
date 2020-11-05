@@ -51,6 +51,12 @@ Log:
 -Started adding basic functionality such as changing planes and attaching functions to input
 -Researched important relevant APIs (weather and terrain related) in the event that the project would allow for them to be implemented  
 
+05/10/10
+-Held meeting with three of the members
+-Delegated tasks as follows: 
+i. finish tooltip menu w/ time functions (clock, pause, rewind, etc)
+ii. build the basic landscapes for the simulation 
+iii. acquire assets for population of the landscapes
 
 Hours worked: 25
 
