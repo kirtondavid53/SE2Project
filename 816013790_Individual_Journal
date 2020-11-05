@@ -1,0 +1,74 @@
+Name: Joshua Samm
+
+ID: 816013790
+
+Contribution: 
+-Came up with the accepted project idea and requirements
+-Developed
+-Primary coder 
+
+Log:
+22/09/2020
+-Discussed potential ideas for the project with the group (student assistance, item ordering, landscape simulation etc)
+-Hammered down the scope of the project, its objectives, description, the technologies to be used, language it would be coded in, tech to be used, primary form of communications etc
+
+24/09/2020
+-Decided on a product owner (Joshua Samm)
+
+07/10/2020
+-Discussed the requirements for the project
+-Decided which requirements were achieveable
+
+10/10/10
+-Updated the Project Initiation document with the requirements
+
+13/10/10
+-Received feedback about the intensivity of our requirements
+-Discussed changing the priorities of the project in response
+
+18/10/10
+-Held a meeting about the second milestone
+-delegated the work among the group members
+-Joshua handled the requirements, user stories and use case/sequence diagrams
+
+21/10/10
+-Meeting held
+-Further discussed the scope of the project
+
+22/10/10
+-Held our first sprint meeting
+-The focus being on designing and implementing two important menus for the project
+
+26/10/10
+-Started a Unity project
+-Went over basics to get to grips with the interface and shake off rust
+-Imported relevant assets 
+
+30/10/10
+-Implemented first menu layout without functionality on the frontend
+
+01/10/10
+-Started adding basic functionality such as changing planes and attaching functions to input
+-Researched important relevant APIs (weather and terrain related) in the event that the project would allow for them to be implemented  
+
+
+Hours worked: 25
+
+Tasks accomplished: Deciding on the idea, completing the initialization document, meeting the first and second milestones, 
+starting and completing the First Sprint, designed and began implementation of the basic menus
+
+Lessons learnt:
+-Enforce more consistent meetings
+-Engage more with the other members so that their skills would be put to better use, and thus time can be freed up to do what I'm decent at, straight coding
+-Whilst in the middle of my work, keep the group posted on what I intend to achieve so they can offer assistance 
+
+Experiences: 
+I have found that Unity is a remarkably similar program to others like NetBeans and Android Studio in the manner of utilizing its tool bars to add objects into 
+There were a few hiccups to start with in regards to setting it up to use Visual Studio Code and certain awkward fumblings with the toolbar when adjusting the scene view, 
+but afterwards it has been rather enjoyable interacting with the coding process. It is certainly less annoying than the necessary documentation, though I suspect that taking the
+documentation more seriously would apply a greater degree of cohesion and structure within the process, which is duly needed.  
+
+It is rather difficult being in the leader position. I am uncomfortable with being the one that has to bring everyone to speed on the project multiple times 
+and delegating work effectively. There have been a few times that I have attempted to take on the brunt of the workload related to certain tasks by pure habit
+to the chagrin of the other members, leading to poorly done work on my end that the others have had to fix and adjust as the scale is much too large for me alone.
+There needs to 
