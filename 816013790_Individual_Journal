@@ -19,39 +19,39 @@ Log:
 -Discussed the requirements for the project
 -Decided which requirements were achieveable
 
-10/10/10
+10/10/2020
 -Updated the Project Initiation document with the requirements
 
-13/10/10
+13/10/2020
 -Received feedback about the intensivity of our requirements
 -Discussed changing the priorities of the project in response
 
-18/10/10
+18/10/2020
 -Held a meeting about the second milestone
 -delegated the work among the group members
 -Joshua handled the requirements, user stories and use case/sequence diagrams
 
-21/10/10
+21/10/2020
 -Meeting held
 -Further discussed the scope of the project
 
-22/10/10
+22/10/2020
 -Held our first sprint meeting
 -The focus being on designing and implementing two important menus for the project
 
-26/10/10
+26/10/2020
 -Started a Unity project
 -Went over basics to get to grips with the interface and shake off rust
 -Imported relevant assets 
 
-30/10/10
+30/10/2020
 -Implemented first menu layout without functionality on the frontend
 
-01/10/10
+01/11/2020
 -Started adding basic functionality such as changing planes and attaching functions to input
 -Researched important relevant APIs (weather and terrain related) in the event that the project would allow for them to be implemented  
 
-05/10/10
+05/11/2020
 -Held meeting with three of the members
 -Delegated tasks as follows: 
 i. finish tooltip menu w/ time functions (clock, pause, rewind, etc)
@@ -59,8 +59,25 @@ ii. build the basic landscapes for the simulation
 iii. acquire/produce assets for population of the landscapes
 -Intent is for this stuff to be accomplished by next Monday at the latest
 
+14/11/2020
+-Added in basic camera functionality (movement and looking)
+-Experimented with applying textures to models 
+-Added in basic terrain with somewhat ineffective built-in Unity placement tools
+-Started adding in a plane for tooltip menus
 
-Hours worked: 25
+22/11/2020
+-Mostly toolbar focused
+-Implemented basic toolbar menu design
+-Implemented pause/play functions
+-Implemented a clock
+-Attempted to implement a fast-forward function, but there wasn't anything in the simulation that would be affected by it
+
+28/11/2020
+-Added in basic weather (sunny, rainy, windy)
+-Coded in texture/material swapping based on the terrain type chosen
+-Coded in placement of objects
+
+Hours worked: 40
 
 Tasks accomplished: Deciding on the idea, completing the initialization document, meeting the first and second milestones, 
 starting and completing the First Sprint, designed and began implementation of the basic menus
